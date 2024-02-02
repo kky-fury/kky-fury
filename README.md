@@ -8,7 +8,7 @@ My name is Mohak Chadha, I am currently a final-year PhD candidate at the [Chair
 - I'm from New Delhi, India 🇮🇳 and have been living in München, Germany 🇩🇪 since 2017.
 - I am passionate about cloud-native ☁️ and improving the substainiability of computing systems 🌲.
 - 🏃 Love running and hiking.
-- Trivia: My github username is inspired from a famous Dota2 player 😀.
+- Trivia: My github username is inspired by a famous Dota2 player 😀.
 - You can find more about me on my personal website: [kky-fury.github.io](https://kky-fury.github.io/). 
 - 🔗 LinkedIn: [Mohak Chadha](https://www.linkedin.com/in/mohak-chadha-1490707b).
 
