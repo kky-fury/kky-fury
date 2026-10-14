@@ -1,6 +1,6 @@
 # Hi, I’m Mohak 👋
 
-### Solution Architect at NVIDIA · Munich, Germany
+### Solution Architect at NVIDIA
 
 At NVIDIA, I work on GPU infrastructure for AI, focusing on Kubernetes, scalable inference, and secure AI.
 
