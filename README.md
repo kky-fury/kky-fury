@@ -2,11 +2,11 @@
 
 ### Solution Architect at NVIDIA
 
-At NVIDIA, I work on GPU infrastructure for AI, focusing on Kubernetes, scalable inference, and secure AI.
+At NVIDIA, I help teams build GPU infrastructure for AI, with a focus on Kubernetes, scalable inference, and secure AI.
 
-I earned my PhD from the Technical University of Munich, graduating *summa cum laude*. My research explored serverless computing, federated learning, and lightweight isolation for high-performance computing. I’m also interested in making computing systems more sustainable.
+I earned my PhD from the Technical University of Munich, graduating *summa cum laude*. During that time, I explored how to make computing systems more efficient, accessible, and sustainable, through work on serverless computing, federated learning, and lightweight isolation for high-performance computing.
 
-### Selected research projects
+### A few things I worked on
 
 - **[FedLess](https://github.com/Serverless-Federated-Learning/FedLess)** — Secure and scalable federated learning using serverless computing.
 - **[MPIWasm](https://github.com/kky-fury/MPIWasm)** — Running MPI applications using WebAssembly.
@@ -15,12 +15,12 @@ I earned my PhD from the Technical University of Munich, graduating *summa cum l
 
 ### Beyond work
 
-Originally from New Delhi, India 🇮🇳, I’ve lived in Munich, Germany 🇩🇪 since 2017. Outside work, I enjoy running and hiking.
+I’m originally from New Delhi, India 🇮🇳, and Munich, Germany 🇩🇪 has been home since 2017. When I’m away from the keyboard, you’ll often find me out running or hiking.
 
-My GitHub username is inspired by a Dota 2 player. 🎮
+And if you’re wondering about the username, it’s a nod to a Dota 2 player. 🎮
 
-### Let’s connect
+### Say hello
 
-You can find my publications, talks, and more about me on **[my website](https://kky-fury.github.io/)**.
+You can find my publications, talks, and a little more about me on **[my website](https://kky-fury.github.io/)**.
 
-Always happy to connect over cloud-native infrastructure, AI systems, and research.
+If you’re working on something interesting in cloud-native infrastructure or AI systems, exploring a research idea, or just want to say hello, I’d be happy to connect.
